@@ -1,10 +1,10 @@
 /*
  * File: 0-holberton.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  *
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - Prints "Holberton" followed by a new line.
