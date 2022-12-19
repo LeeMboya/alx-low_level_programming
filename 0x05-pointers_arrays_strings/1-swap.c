@@ -1,9 +1,9 @@
 /*
  * File: 1-swap.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * swap_int - Swaps the values of two integers.
