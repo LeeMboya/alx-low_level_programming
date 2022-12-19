@@ -1,9 +1,9 @@
 /*
  * File: 7-puts_half.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * puts_half - Prints half of a string.
