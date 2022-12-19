@@ -1,9 +1,9 @@
 /*
  * File: 2-strlen.c
- * Auth: Brennan D Baraban
+ * Auth: Tracy Wankio
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strlen - Returns the length of a string.
