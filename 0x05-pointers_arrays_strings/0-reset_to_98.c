@@ -1,6 +1,6 @@
 /*
  * File: 0-reset_to_98.c
- * Auth: Tracy Wankio
+ * Auth: Leeroy Mboya
  */
 
 #include "main.h"
