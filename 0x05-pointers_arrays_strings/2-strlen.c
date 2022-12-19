@@ -1,6 +1,6 @@
 /*
  * File: 2-strlen.c
- * Auth: Tracy Wankio
+ * Auth: Leeroy Mboya
  */
 
 #include "main.h"
