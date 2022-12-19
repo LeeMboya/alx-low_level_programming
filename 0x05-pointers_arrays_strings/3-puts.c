@@ -1,9 +1,9 @@
 /*
  * File: 3-puts.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _puts - Prints a string to stdout.
