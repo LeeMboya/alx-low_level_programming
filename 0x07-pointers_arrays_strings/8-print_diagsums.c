@@ -1,9 +1,9 @@
 /*
  * File: 8-print_diagsums.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
