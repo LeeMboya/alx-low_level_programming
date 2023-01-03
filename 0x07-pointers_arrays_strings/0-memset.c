@@ -1,6 +1,6 @@
 /*
  * File: 0-memset.c
- * Auth: Tracy Wankio M
+ * Auth: Leeroy Mboya
  */
 
 #include "main.h"
