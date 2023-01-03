@@ -1,6 +1,6 @@
 /*
  * File: 1-memcpy.c
- * Auth: Tracy Wankio M
+ * Auth: Leeroy Mboya
  */
 
 #include "main.h"
