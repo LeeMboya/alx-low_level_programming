@@ -1,9 +1,9 @@
 /*
  * File: 9-set_string.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * set_string - Sets the value of a pointer to a char.
