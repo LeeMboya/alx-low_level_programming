@@ -1,9 +1,9 @@
 /*
  * File: 0-puts_recursion.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _puts_recursion - Prints a string, followed by a new line.
