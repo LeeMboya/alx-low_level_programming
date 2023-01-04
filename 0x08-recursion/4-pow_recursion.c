@@ -1,9 +1,9 @@
 /*
  * File: 4-pow_recursion.c
- * Auth: Brennan D Baraban
+ * Auth: Leeroy Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _pow_recursion - Returns the value of x raised to the power of y.
