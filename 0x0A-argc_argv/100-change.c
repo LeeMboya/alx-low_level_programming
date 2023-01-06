@@ -1,6 +1,6 @@
 /*
  * File: 100-change.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include <stdio.h>
