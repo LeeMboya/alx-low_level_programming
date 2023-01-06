@@ -1,6 +1,6 @@
 /*
  * File: 0-whatsmyname.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include <stdio.h>
