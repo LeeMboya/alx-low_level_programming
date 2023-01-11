@@ -1,9 +1,9 @@
 /*
  * File: 0-create_array.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
