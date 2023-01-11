@@ -1,9 +1,9 @@
 /*
  * File: 2-str_concat.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
