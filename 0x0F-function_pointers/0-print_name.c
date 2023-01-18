@@ -1,6 +1,6 @@
 /*
  * File: 0-print_name.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "function_pointers.h"
