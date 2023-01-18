@@ -1,6 +1,6 @@
 /*
  * File: 3-main.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "3-calc.h"
