@@ -1,6 +1,6 @@
 /*
  * File: 3-get_op_func.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "3-calc.h"
