@@ -1,6 +1,6 @@
 /*
  * File: 3-print_all.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "variadic_functions.h"
