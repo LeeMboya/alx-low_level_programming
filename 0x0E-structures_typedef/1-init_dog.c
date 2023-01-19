@@ -1,6 +1,6 @@
 /*
  * File: 1-init_dog.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "dog.h"
