@@ -1,6 +1,6 @@
 /*
  * File: 5-free_dog.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
 #include "dog.h"
