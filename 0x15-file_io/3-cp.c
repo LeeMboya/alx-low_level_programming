@@ -1,9 +1,9 @@
 /*
  * File: 3-cp.c
- * Auth: Brennan D Baraban
+ * Auth: Lee Mboya
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 
